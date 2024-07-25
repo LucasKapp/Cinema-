@@ -1,0 +1,36 @@
+.Hoje {
+  color: rgb(209, 5, 5);
+}
+
+.Amanha {
+  color: rgb(105, 240, 240);
+}
+
+a {
+  text-decoration: none;
+  color:rgb(61, 105, 98)
+  
+}
+
+p {
+  font-size: 25px; font-family: Arial;
+}
+
+div {
+  font-size: 45px;
+  width: 150px;
+  background-color: black;
+  color: white;
+  padding: 13px;
+  border: 8px solid gray;
+  margin: 30px;
+}
+
+body {
+  margin: 0px;
+}
+
+h2 {
+  margin: 30px;
+  color: ;
+}
